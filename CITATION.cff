@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this dataset or software, please cite it as below."
+type: dataset
+title: "Infrastructure-Free UAV Phenotyping Dataset"
+abstract: "A complete dataset and source code for UAV-based crop reconstruction and trait estimation using RGB imagery without Ground Control Points (GCPs) or RTK-GPS. Includes weekly UAV flights over rice fields, orthomosaics, DEMs, and phenotypic analysis spanning early, mid, and late growth stages."
+authors:
+  - family-names: "Chaudhry"
+    given-names: "Muhammad Hussain Habib"
+    email: "27100016@lums.edu.pk"
+    affiliation: "Department of Computer Science, Lahore University of Management Sciences (LUMS)"
+  - family-names: "Rana"
+    given-names: "Muhammad Ibrahim"
+    email: "m_rana@lums.edu.pk"
+    affiliation: "Center for Water Informatics & Technology, Lahore University of Management Sciences (LUMS)"
+  - family-names: "Jaleel"
+    given-names: "Hassan"
+    email: "hassan.jaleel@lums.edu.pk"
+    affiliation: "Center for Water Informatics & Technology, Lahore University of Management Sciences (LUMS)"
+    orcid: "https://orcid.org/0000-0001-7834-2607"
+repository-code: "https://github.com/LUMS-WIT/infrastructure-free-uav-phenotyping"
+url: "https://wit.lums.edu.pk"
+keywords:
+  - "UAV"
+  - "digital plant phenotyping"
+  - "consumer-grade drones"
+  - "digital elevation model"
+  - "infrastructure-free phenotyping"
+  - "rice"
+  - "crop monitoring"
+  - "computer vision"
+  - "RGB imagery"
+  - "precision agriculture"
+license:
+  - MIT
+  - CC-BY-4.0
+version: "1.0.0"
+date-released: 2026-01-02
+preferred-citation:
+  type: article
+  title: "UAV-Based Crop Reconstruction and Trait Estimation Using RGB Imagery Without External Geospatial Infrastructure"
+  authors:
+    - family-names: "Chaudhry"
+      given-names: "Muhammad Hussain Habib"
+    - family-names: "Rana"
+      given-names: "Muhammad Ibrahim"
+    - family-names: "Jaleel"
+      given-names: "Hassan"
+  journal: "Computers and Electronics in Agriculture"
+  year: 2026
+  status: "submitted"
+  notes: "Paper submitted for review"
